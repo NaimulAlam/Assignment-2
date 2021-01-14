@@ -1,0 +1,44 @@
+.extra-fonts{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+}
+.bg-color-rose{
+    background-color: rgba(255, 251, 240, 1);
+}
+.penguin-fashion-logo{
+    width: 250px;
+}
+.orange{
+    color: rgba(250, 190, 76, 1);
+}
+.dark-blue{
+    color: rgba(54, 57, 88, 1);
+}
+.btn-color-green{
+    background-color: rgba(164, 188, 70, 1);
+    color: white;
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+}
+.price{
+    font-size: 36px;
+    font-weight: 700;
+}
+.women-font-size{
+    font-size: 40px;
+}
+.extra-img-class{
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 30px 40px;
+    width: 334px;
+    height: 327px;
+}
+.jacket-card{
+    border-radius: 20px;
+}
+.jacket-card-footer{
+    height: 60px;
+}
