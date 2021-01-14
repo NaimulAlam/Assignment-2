@@ -33,6 +33,7 @@
     background-color: whitesmoke;
     margin: 10px;
     border-radius: 20px;
+    /* padding was 40px, need to chnage if git website do not get the what my browser showing */
     padding: 30px 45px;
     width: 334px;
     height: 327px;
@@ -42,4 +43,16 @@
 }
 .jacket-card-footer{
     height: 60px;
+}
+.logo-size{
+    width: 150px;
+    padding: 30px;
+}
+.bottom-card{
+    border-radius: 20px;
+    height: 200px;
+}
+.last-image{
+    margin-top: 200px;
+    width: 120%;
 }
