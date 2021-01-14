@@ -13,6 +13,7 @@
 }
 .dark-blue{
     color: rgba(54, 57, 88, 1);
+    font-weight: 800;
 }
 .btn-color-green{
     background-color: rgba(164, 188, 70, 1);
@@ -30,10 +31,10 @@
 }
 .extra-img-class{
     background-color: whitesmoke;
-    margin: 10px;
+    margin: 15px;
     border-radius: 20px;
-    padding: 30px 40px;
-    width: 334px;
+    padding: 30px 75px;
+    width: 374px;
     height: 327px;
 }
 .jacket-card{
